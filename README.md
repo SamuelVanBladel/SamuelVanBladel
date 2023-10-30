@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelVanBladel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React-Native
+- 👀 I’m interested in DevOps Engineering and automation.
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me Samuelvanbladel@gmail.com
 
 <!---
