@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelVanBladel
 - 👀 I’m interested in DevOps Engineering and automation.
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently building out front and backend for my NFC_Jewelery project
 - 📫 How to reach me Samuelvanbladel@gmail.com
 
 <!---
